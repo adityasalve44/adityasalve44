@@ -24,7 +24,7 @@
 
 ## 🔗 Portfolio
 Explore my work, case studies, and more details on my services here:  
-[aditya-salve.vercel.app](https://aditya-salve.vercel.app/)
+[aditya-salve](https://aditya-salve.vercel.app/)
 
 ---
 
