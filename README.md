@@ -1,7 +1,7 @@
 <!-- Animated Coding Banner -->
 
 <p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2t4N2Z5YWZyZ2Z1Z3dzYW93aXRlb3FvY3R3a2g3NG9sd3VxY3p1aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlQXlQ3nHyLMvte/giphy.gif" width="100%"/>
+<!-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2t4N2Z5YWZyZ2Z1Z3dzYW93aXRlb3FvY3R3a2g3NG9sd3VxY3p1aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlQXlQ3nHyLMvte/giphy.gif" width="100%"/> -->
 </p>
 
 <h1 align="center">Hi 👋 I'm Aditya Salve</h1>
