@@ -1,239 +1,337 @@
-<!-- Animated Coding Banner -->
+# Hi 👋 I'm Aditya Salve
 
 <p align="center">
-<!-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2t4N2Z5YWZyZ2Z1Z3dzYW93aXRlb3FvY3R3a2g3NG9sd3VxY3p1aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlQXlQ3nHyLMvte/giphy.gif" width="100%"/> -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=26&duration=3000&pause=900&color=00BFFF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;SaaS+%26+Product+Engineer;React+%7C+Next.js+%7C+Laravel+%7C+NestJS;UI+%26+Frontend+Engineer;Building+Production+Systems+for+Real+Businesses"/>
 </p>
 
-<h1 align="center">Hi 👋 I'm Aditya Salve</h1>
-
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=26&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;MERN+Stack+Developer;Frontend+Engineer+%7C+UI+Specialist;Freelance+SaaS+Developer;React+%7C+Next.js+%7C+Spring+Boot+%7C+NestJS"/>
+  <a href="https://github.com/adityasalve44">
+    <img src="https://komarev.com/ghpvc/?username=adityasalve44&label=Profile%20Views&color=0e75b6&style=flat"/>
+  </a>
+  <a href="https://github.com/adityasalve44?tab=followers">
+    <img src="https://img.shields.io/github/followers/adityasalve44?label=Followers&style=flat"/>
+  </a>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-💻 **Full Stack Developer from India**
+I'm a **Full Stack Developer and freelance product engineer from India** focused on building **SaaS platforms, business applications, dashboards, POS systems, and modern web experiences**.
 
-I specialize in building **scalable SaaS platforms, dashboards, and modern web applications**.
+I work across the entire product lifecycle — from **database architecture and backend APIs to frontend systems, UI/UX, integrations, deployment, and production optimization**.
 
-Most of my work involves **freelance product development**, where I design and build **complete production systems from scratch**, including architecture, backend APIs, frontend UI, and deployment.
+I particularly enjoy taking a complex business workflow and turning it into a **clean, scalable, production-ready application**.
 
-### What I focus on
+```text
+💡 Product Idea
+      ↓
+🧠 Architecture & Database Design
+      ↓
+⚙️ Backend & APIs
+      ↓
+🎨 Frontend & UI Engineering
+      ↓
+🔐 Authentication & Business Logic
+      ↓
+📊 Analytics & Admin Systems
+      ↓
+🚀 Deployment & Production
+```
 
-* Full Stack SaaS Development
-* MERN Stack Applications
-* Frontend UI Engineering
-* Animated Web Interfaces
-* High-performance dashboards
-* Freelance product development
+### What I Build
 
-I enjoy transforming **complex product ideas into scalable applications** with clean architecture and intuitive UI.
+* 🚀 Multi-tenant SaaS platforms
+* 🏢 Business management systems
+* 🛒 Commerce & delivery platforms
+* 🧾 POS & inventory systems
+* 🏛️ Government digitization software
+* 📊 Admin dashboards & analytics
+* 🎨 High-end animated frontend experiences
+* 🔌 API integrations & third-party services
+* 📱 Progressive Web Applications
 
 ---
 
-# 🧠 Tech Stack
+# 🧰 Tech Stack
 
-## Frontend
+### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,html,css,threejs"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css"/>
 </p>
+
+**React · Next.js · TypeScript · JavaScript · Tailwind CSS · Inertia.js**
 
 ### UI / Animation
 
-* GSAP
-* Framer Motion
-* Three.js
-* Advanced interactive UI design
+<p>
+<img src="https://skillicons.dev/icons?i=threejs"/>
+</p>
 
----
+**GSAP · Framer Motion · Three.js · shadcn/ui · MUI · DaisyUI**
 
-## Backend
+I enjoy building interfaces with **micro-interactions, scroll animations, responsive layouts, motion systems, and premium visual design**.
+
+### Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel,java,spring"/>
 </p>
 
----
+**Node.js · Express · NestJS · Laravel · PHP · Java · Spring Boot**
 
-## MERN Stack
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs"/>
-</p>
-
-Experienced building **complete MERN stack applications including authentication systems, dashboards, and scalable APIs.**
-
----
-
-## Databases
+### Databases & ORM
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis"/>
 </p>
 
-* PostgreSQL
-* MySQL
-* Redis
-* Prisma ORM
+**PostgreSQL · MySQL · MongoDB · Redis · Prisma · Drizzle ORM**
 
----
-
-## DevOps & Tools
+### Cloud / Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vercel,firebase"/>
 </p>
 
-* Docker
-* Git & GitHub
-* CI/CD
-* Linux development environment
+**Git · GitHub · Docker · Linux · Vercel · Firebase · REST APIs**
+
+### Integrations
+
+**Razorpay · Stripe · Firebase · Google Maps Platform · Twilio · Push Notifications**
 
 ---
 
-# 🚀 Freelance & Production Projects
+# 🚀 Selected Production Projects
 
-Most of my major projects are **freelance production systems currently used by real businesses**.
+## 🛍️ Wingo — Hyperlocal Commerce & Delivery Platform
+
+A **multi-vendor hyperlocal commerce and delivery platform** built for local markets.
+
+The platform connects customers with **grocery stores, restaurants, retail businesses and pharmacies**, while providing dedicated vendor, delivery-agent and administrative workflows.
+
+### Architecture
+
+**Next.js · React · TypeScript · Drizzle ORM · PostgreSQL · Firebase · Google Maps Platform**
+
+### Key Systems
+
+* 🏪 Multi-vendor marketplace
+* 📦 Order lifecycle management
+* 🚴 Delivery-agent assignment & workflows
+* 📍 Location-aware ordering
+* 🗺️ Distance & delivery-area management
+* 💳 Online payments
+* 🔔 Push notifications
+* 📊 Vendor & admin dashboards
+* 📈 Revenue & business analytics
+* 👤 Customer account management
+* 🛡️ Role-based access control
+* 📱 PWA experience
+
+**Status:** Production / actively developed
 
 ---
 
-# 🏫 Institute Management System (IMS) – SaaS
+## 🏫 Institute Management System — Multi-Tenant SaaS
+
+A complete SaaS platform designed for **typing and educational institutes**.
 
 ### Stack
 
-NestJS • Prisma • PostgreSQL • Next.js • TypeScript
-
-Architected a **multi-tenant SaaS platform** for educational institutes.
+**Next.js · React · TypeScript · NestJS · Prisma · PostgreSQL**
 
 ### Features
 
-* Student & Staff Management
-* Lead & Referral Tracking
-* Fee Management with invoices & installments
-* Attendance & Exam scheduling
-* Results tracking
-* Firebase & Twilio notifications
+* 👨‍🎓 Student management
+* 👩‍🏫 Staff management
+* 🎯 Leads & referrals
+* 💰 Fees, installments & invoices
+* 📝 Attendance
+* 📚 Exams & results
+* 🔔 Notifications
+* 🏢 Multi-tenant architecture
+* 📊 Institute dashboards
 
-### Impact
-
-* Onboarded **2 institutes**
-* Managed **600+ students and 120 staff**
+**Impact:** Onboarded **2 institutes**, managing **600+ students and 120+ staff**.
 
 ---
 
-# 🏛 Government SaaS for Grampanchayat Offices
+## 🏛️ Government Tax & Certificate SaaS
 
-Built a **government digitization system** for tax collection and certificate issuance.
+A digitization platform designed for **Grampanchayat offices** to manage taxation and certificate workflows.
+
+### Stack
+
+**Laravel · PHP · React · TypeScript · Inertia.js · PostgreSQL**
 
 ### Features
 
-* Secure authentication
-* Role-based access control
-* Automated certificate generation
-* Real-time dashboards
+* 🔐 Authentication & authorization
+* 👥 Role-based access control
+* 🧾 Tax management
+* 📜 Automated certificate generation
+* 📊 Administrative dashboards
+* 🗂️ Digital records
+* ⚡ Faster document processing
 
-### Impact
-
-* Reduced manual work by **50%**
-* Enabled **minutes-fast document issuance**
+**Impact:** Reduced manual administrative work and significantly improved certificate processing speed.
 
 ---
 
-# 🛒 Inventory Management & POS Billing System
+## 🧾 Inventory Management & POS
 
-Stack: **React • Spring Boot • PostgreSQL**
+A business management and billing platform designed for **grocery and retail businesses**.
 
-Freelance project developed for grocery businesses.
+### Stack
+
+**React · Spring Boot · PostgreSQL**
 
 ### Features
 
-* POS billing system
-* Sales analytics dashboards
-* Real-time inventory tracking
-* Invoice printing
-* Multi-store support
+* 🧾 POS billing
+* 📦 Inventory management
+* 🏪 Multi-store support
+* 📊 Sales analytics
+* 🖨️ Invoice printing
+* 📈 Business reporting
 
-### Impact
-
-* Used by **50+ stores**
-* Improved operational efficiency by **30%**
+**Used across 50+ stores.**
 
 ---
 
-# 🌐 Frontend Projects & Landing Pages
+## 🍽️ Falcon POS — Restaurant Management SaaS
 
-Portfolio of **modern landing pages and UI-heavy websites**
+A multi-tenant restaurant management system covering the operational workflow from **table management to kitchen production and business administration**.
 
-🔗 https://technoweb-solutions.vercel.app
+### Stack
 
-Features:
+**Next.js · React · TypeScript · Drizzle ORM · MySQL/TiDB**
 
+### Systems
+
+* 🍽️ Restaurant & table management
+* 👨‍🍳 Kitchen production workflow
+* 🧑‍🍳 Waiter operations
+* 🧾 POS & order management
+* 🍸 Liquor management
+* 📊 Reports & reconciliation
+* 💾 Backup & restore architecture
+* 🔐 Subscription enforcement
+* 🏢 Multi-tenant SaaS architecture
+
+---
+
+# 🎨 Frontend & UI Work
+
+I also build **UI-heavy websites, landing pages and interactive product experiences**.
+
+### Focus Areas
+
+* Responsive design systems
 * GSAP animations
-* Framer Motion transitions
-* High performance UI
-* SEO optimized pages
+* Framer Motion
+* Interactive storytelling
+* Bento layouts
+* Micro-interactions
+* Performance optimization
+* SEO
+* Modern typography
+* Premium SaaS interfaces
+
+### 🌐 Featured Frontend Work
+
+**TechnoWeb Solutions**
+
+https://technoweb-solutions.vercel.app
+
+---
+
+# 🧪 Currently Exploring
+
+```text
+Next.js        → Advanced App Router architecture
+SaaS           → Multi-tenant systems & product architecture
+AI             → AI-powered business workflows & voice agents
+Commerce       → Hyperlocal marketplaces & delivery systems
+UI Engineering → Motion, 3D & highly interactive interfaces
+Shopify        → Liquid, themes & custom storefronts
+Cloud          → Production optimization & scalable infrastructure
+```
 
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=adityasalve44&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasalve44&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=adityasalve44&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasalve44&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
-
----
-
-# 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=adityasalve44&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=adityasalve44&theme=tokyonight&hide_border=true"/>
 </p>
-
----
-
-# 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityasalve44&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityasalve44&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-# ✍️ Dev Quote
+# 🏗️ My Development Philosophy
+
+> **Build software that solves the business problem, not just the technical problem.**
+
+I care about:
+
+* Clean architecture
+* Maintainable code
+* Strong database design
+* Type safety
+* Performance
+* Security
+* Good UX
+* Scalable business logic
+* Production reliability
+
+A good product isn't just something that works — it should be **easy to use, easy to maintain, and capable of growing with the business**.
+
+---
+
+# 🌐 Find Me Online
 
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+  <a href="https://aditya-salve.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://github.com/adityasalve44">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
----
+### 🌍 Portfolio
 
-# 👀 Profile Visitors
+https://aditya-salve.vercel.app
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=adityasalve44&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
+### 💻 GitHub
 
----
-
-# 🌐 Portfolio
-
-🔗 https://aditya-salve.vercel.app
+https://github.com/adityasalve44
 
 ---
 
-# 🤝 Let's Work Together
+# 🤝 Let's Build Something
+
+I'm open to **freelance projects, SaaS development, product engineering and collaboration opportunities**.
 
 If you're building:
 
-* SaaS platforms
-* dashboards
-* modern frontend systems
-* full stack applications
+**SaaS · Business Software · POS · Dashboards · Marketplaces · E-commerce · AI-powered Applications · Modern Web Experiences**
 
-I'm open to **freelance collaborations and product development opportunities**.
+I'd be happy to work on it.
 
-🚀 Let's build something great.
+<p align="center">
+
+### 🚀 Turning ideas into production-ready software.
+
+</p>
