@@ -1,7 +1,5 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-
 <!--                              HERO                                      -->
-
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
@@ -49,10 +47,10 @@ I'm a **Full Stack Developer from India** focused on building:
 
 <p align="center">
 
-🏢 SaaS Platforms   •  
-🛒 Commerce Systems   •  
-📊 Business Dashboards   •  
-🧾 POS Systems   •  
+🏢 SaaS Platforms &nbsp;•&nbsp;
+🛒 Commerce Systems &nbsp;•&nbsp;
+📊 Business Dashboards &nbsp;•&nbsp;
+🧾 POS Systems &nbsp;•&nbsp;
 🎨 Interactive Web Experiences
 
 </p>
@@ -79,7 +77,6 @@ Multi-tenant business software with:
 * Complex business workflows
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 🎨 Modern Frontends
@@ -95,7 +92,6 @@ Interactive interfaces using:
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
@@ -111,7 +107,6 @@ Production applications for:
 * Inventory & POS
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 🤖 Product Engineering
@@ -135,51 +130,37 @@ I work across:
 
 # 🧠 Tech Arsenal
 
-## Frontend
-
+### Frontend
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css"/>
 </p>
 
 **React · Next.js · TypeScript · JavaScript · Tailwind CSS · Inertia.js**
 
-### UI / Motion
+**UI / Motion:** GSAP · Framer Motion · Three.js · shadcn/ui · MUI · DaisyUI
 
-**GSAP · Framer Motion · Three.js · shadcn/ui · MUI · DaisyUI**
-
----
-
-## Backend
-
+### Backend
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel,java,spring"/>
 </p>
 
 **Node.js · Express · NestJS · Laravel · PHP · Java · Spring Boot**
 
----
-
-## Databases & ORM
-
+### Databases & ORM
 <p>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis"/>
 </p>
 
 **PostgreSQL · MySQL · MongoDB · Redis · Prisma · Drizzle ORM**
 
----
-
-## Tools & Platform
-
+### Tools & Platform
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vercel,firebase"/>
 </p>
 
 **Git · GitHub · Docker · Linux · Vercel · Firebase · REST APIs**
 
-### Integrations
-
-**Razorpay · Stripe · Google Maps · Twilio · Firebase Notifications**
+**Integrations:** Razorpay · Stripe · Google Maps · Twilio · Firebase Notifications
 
 ---
 
@@ -189,30 +170,51 @@ I work across:
 
 ---
 
-## 🛍️ Wingo
+## 🛍️ Wingo — Hyperlocal Commerce & Delivery Platform
 
-### Hyperlocal Commerce & Delivery Platform
-
-A multi-vendor marketplace connecting customers with **local grocery stores, restaurants, retail shops and pharmacies**.
+A multi-vendor marketplace connecting customers with **local grocery stores, restaurants, pharmacies and retail shops**. Started as a food-delivery MVP and was deliberately re-architected into a generic multi-vendor commerce platform on a catalog-driven, vendor-scoped schema.
 
 <p>
-<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,postgres"/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,postgres,firebase"/>
 </p>
 
 **Next.js · React · TypeScript · Drizzle ORM · PostgreSQL · Firebase**
 
-| System           | Capabilities                       |
-| ---------------- | ---------------------------------- |
-| 🏪 Marketplace   | Multi-vendor commerce              |
-| 📦 Orders        | Complete order lifecycle           |
-| 🚴 Delivery      | Agent assignment & workflows       |
-| 📍 Location      | Geocoding, routes & delivery areas |
-| 💳 Payments      | Online payment infrastructure      |
-| 🔔 Notifications | Push notification workflows        |
-| 📊 Analytics     | Revenue & business reporting       |
-| 📱 Platform      | Mobile-first PWA                   |
+| System | Capabilities |
+|---|---|
+| 🏪 Marketplace | Multi-vendor commerce, catalog/variant/inventory architecture with an append-only inventory ledger |
+| 📦 Orders | Full order lifecycle with snapshotted order items |
+| 🚴 Delivery | Agent assignment, OTP-based delivery confirmation, earnings tracking |
+| 📍 Location | Google Maps JS API, draggable pin, Redis-cached reverse geocoding |
+| 💳 Payments | Razorpay integration with a double-entry ledger, webhook processing and idempotent payment handling |
+| 🔔 Notifications | Full push-notification engine (QStash + VAPID) across business events, with idempotency |
+| 📊 Analytics | Finance/analytics module, revenue and business reporting |
+| 📱 Platform | Mobile-first PWA with a Framer Motion + SVG-path splash animation |
 
 **Status:** `Production` • `Actively Developed`
+
+---
+
+## 🍽️ Falcon POS → Multi-Tenant Restaurant SaaS
+
+A restaurant operating system (tables, POS, kitchen, waiter workflows) that I converted from a single-tenant product into a **multi-tenant SaaS**.
+
+**Next.js 16 · React · TypeScript · Drizzle ORM · TiDB/MySQL**
+
+`Table Management` `POS & Orders` `Kitchen Production` `Waiter Workflow`
+`Liquor Management` `Reports & Reconciliation` `Backup & Restore` `Multi-Tenant Architecture`
+
+Full backend modules rebuilt with audit logging and RBAC, shipped with zero TypeScript errors throughout the conversion.
+
+---
+
+## 🏢 Franchise Management Ecosystem
+
+A connected system of three apps — corporate website, franchise CRM/ERP, and cafe POS — built as one technically interconnected ecosystem rather than separate products, sharing a single codebase and database.
+
+**Laravel · Next.js (App Router) · PostgreSQL**
+
+`Multi-branch Management` `Lead Capture & CRM` `Analytics & Dashboards` `Expense Tracking` `Multilingual (English + Marathi)` `Google Reviews Automation`
 
 ---
 
@@ -220,23 +222,11 @@ A multi-vendor marketplace connecting customers with **local grocery stores, res
 
 ### Multi-Tenant SaaS for Educational Institutes
 
-A complete management platform designed for **typing and educational institutes**.
-
 **NestJS · Prisma · PostgreSQL · Next.js · TypeScript**
 
-### Features
+`Student Management` `Staff Management` `Leads` `Referrals` `Fees` `Installments` `Invoices` `Attendance` `Exams` `Results` `Notifications` `Multi-Tenancy`
 
-`Student Management` `Staff Management` `Leads` `Referrals`
-
-`Fees` `Installments` `Invoices` `Attendance`
-
-`Exams` `Results` `Notifications` `Multi-Tenancy`
-
-### 📈 Scale
-
-**2 Institutes**
-**600+ Students**
-**120+ Staff**
+**Scale:** 2 Institutes • 600+ Students • 120+ Staff
 
 ---
 
@@ -244,139 +234,80 @@ A complete management platform designed for **typing and educational institutes*
 
 ### Digital Platform for Grampanchayat Offices
 
-A government digitization system for **tax collection, records and certificate issuance**.
-
 **Laravel · PHP · React · TypeScript · Inertia.js**
 
-### Features
-
-* 🔐 Secure authentication
-* 👥 Role-based access control
-* 💰 Tax management
-* 📜 Automated certificate generation
-* 📊 Administrative dashboards
-* 🗂️ Digital records
-* ⚡ Fast document processing
+🔐 Secure authentication · 👥 Role-based access control · 💰 Tax management · 📜 Automated certificate generation · 📊 Administrative dashboards · 🗂️ Digital records
 
 **Impact:** Significantly reduced manual processing and improved certificate issuance speed.
 
 ---
 
-## 🧾 Inventory & POS System
-
-### Retail Management Platform
-
-Built for grocery and retail businesses.
+## 🧾 Inventory & POS System — Retail Management Platform
 
 **React · Spring Boot · PostgreSQL**
 
-```text
-POS Billing
-     ↓
-Inventory Management
-     ↓
-Sales Analytics
-     ↓
-Invoice Generation
-     ↓
-Multi-Store Operations
-```
+`POS Billing` → `Inventory Management` → `Sales Analytics` → `Invoice Generation` → `Multi-Store Operations`
 
 **Used by 50+ stores**
 
 ---
 
-## 🍽️ Falcon POS
-
-### Multi-Tenant Restaurant Management SaaS
-
-A restaurant operating system covering POS, tables, kitchen workflows and business administration.
-
-**Next.js · React · TypeScript · Drizzle ORM · MySQL/TiDB**
-
-### Core Systems
-
-🍽️ Table Management
-🧾 POS & Orders
-👨‍🍳 Kitchen Production
-🧑‍🍳 Waiter Workflow
-🍸 Liquor Management
-📊 Reports & Reconciliation
-💾 Backup & Restore
-🏢 Multi-Tenant Architecture
-
----
-
 # 🎨 Frontend & UI Engineering
 
-I also build highly interactive websites where **visual design and motion are part of the product experience**.
+I build interfaces where **motion and visual polish are part of the product**, not an afterthought — splash screens with SVG path animation, scroll-driven sections, drag-and-drop interfaces, and design-token-based UI systems.
 
-### I like working with
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs"/>
+</p>
 
-```text
-┌──────────────────────────────────────────────┐
-│                                              │
-│   ✦ Motion Design                            │
-│   ✦ Scroll-driven Experiences               │
-│   ✦ Bento Layouts                            │
-│   ✦ Micro Interactions                       │
-│   ✦ Responsive Interfaces                    │
-│   ✦ Premium Typography                       │
-│   ✦ 3D / WebGL                              │
-│   ✦ Performance & SEO                        │
-│                                              │
-└──────────────────────────────────────────────┘
-```
+<table>
+<tr>
+<td width="33%" valign="top">
 
-### 🌐 Featured
+**Motion & Interaction**
+- Framer Motion
+- GSAP
+- Scroll-driven experiences
+- Micro-interactions
 
-**TechnoWeb Solutions**
+</td>
+<td width="33%" valign="top">
 
-https://technoweb-solutions.vercel.app
+**Layout & Systems**
+- Bento layouts
+- Design token systems
+- Drag-and-drop (`@dnd-kit`)
+- Responsive interfaces
+
+</td>
+<td width="33%" valign="top">
+
+**Visual & Performance**
+- 3D / WebGL (Three.js)
+- Premium typography
+- Performance & SEO
+- Component refactoring
+
+</td>
+</tr>
+</table>
+
+**Featured:** [TechnoWeb Solutions](https://technoweb-solutions.vercel.app)
 
 ---
 
 # 🧩 Engineering Interests
 
-```text
-                    ┌─────────────────┐
-                    │  PRODUCT IDEA   │
-                    └────────┬────────┘
-                             ↓
-                  ┌─────────────────────┐
-                  │ ARCHITECTURE        │
-                  │ Database + Systems  │
-                  └──────────┬──────────┘
-                             ↓
-              ┌─────────────────────────────┐
-              │ BACKEND                     │
-              │ APIs + Business Logic       │
-              └──────────────┬──────────────┘
-                             ↓
-              ┌─────────────────────────────┐
-              │ FRONTEND                    │
-              │ UI + UX + Motion            │
-              └──────────────┬──────────────┘
-                             ↓
-                 ┌──────────────────────┐
-                 │ PRODUCTION           │
-                 │ Scale + Performance   │
-                 └──────────────────────┘
-```
+I particularly enjoy the full path from idea to production: **architecture and database design → backend APIs and business logic → frontend UI/UX and motion → performance at scale.**
 
-I particularly enjoy working on **complex business logic, multi-tenant architecture, database design, API systems, performance optimization and high-quality frontend experiences**.
+| Layer | Focus |
+|---|---|
+| 🧠 Architecture | Database design, multi-tenant systems, catalog/inventory modeling |
+| ⚙️ Backend | APIs, business logic, payments, notifications, integrations |
+| 🎨 Frontend | UI/UX engineering, motion design, component systems |
+| 🚀 Production | Performance, scaling, security, deployment |
 
----
-
-# 🔭 Currently Exploring
-
-<p align="center">
-
-`AI Applications` • `Voice Agents` • `Advanced SaaS Architecture`
-
-`Shopify Development` • `Interactive 3D UI` • `Product Engineering`
-
-</p>
+**Currently exploring:** `AI Applications` `Voice Agents` `Advanced SaaS Architecture` `Shopify Development` `Interactive 3D UI`
 
 ---
 
